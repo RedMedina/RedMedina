@@ -17,7 +17,7 @@
           while also working independently on projects that aim to express emotions through
           colors, shapes, and realities.
         </h3>
-        <br> <br> <br> <br> <br>  <br> <br> <br>
+        <br> <br> <br> <br> <br>  <br> <br> <br><br> <br> <br>
       </td>
     </tr>
   </table>
