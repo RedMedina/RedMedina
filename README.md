@@ -1,5 +1,5 @@
 <img alt="Scarlet Star" src="https://www.scarlet-star.com/static/media/ScarletStarCyberLogo.e3289cc9bc1f3029b3f9.webp" width="100%" align="center"/>
-<b><h1 style="font-family: Jockey One,sans-serif">About me</h1></b>
+<b><h1 style="font-family: Jockey One,sans-serif">👨🏻‍💻 About me</h1></b>
 <h3>
           Stars forge legends, and realities arise when stellar brilliance is born.
           I'm Scarlet Star, a game developer, programmer, and artist.
@@ -16,14 +16,14 @@
              width="100%" />
       </td>
       <td style="border: none; vertical-align: top;">
-          <h1 style="font-family: Jockey One,sans-serif">Game Engines</h1>
+          <h1 style="font-family: Jockey One,sans-serif">🎮 Game Engines</h1>
            <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"
              width="10%" />
           <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg"
              width="10%" />
-          <h1 style="font-family: Jockey One,sans-serif">Code</h1>
+          <h1 style="font-family: Jockey One,sans-serif">💻 Code</h1>
            <img alt="CS"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"
              width="10%" />
@@ -36,7 +36,7 @@
            <img alt="ThreeJS"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"
              width="10%" />
-          <h1 style="font-family: Jockey One,sans-serif">Pipeline</h1>
+          <h1 style="font-family: Jockey One,sans-serif">🎨 Pipeline</h1>
            <img alt="Git"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
              width="10%" />
