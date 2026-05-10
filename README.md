@@ -36,6 +36,13 @@
            <img alt="ThreeJS"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"
              width="10%" />
+          <h1 style="font-family: Jockey One,sans-serif">Pipeline</h1>
+           <img alt="Git"
+             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
+             width="10%" />
+          <img alt="Blender"
+             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg"
+             width="10%" />
       </td>
     </tr>
   </table>
