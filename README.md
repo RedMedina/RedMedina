@@ -23,7 +23,7 @@
           <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg"
              width="10%" />
-          <h1 style="font-family: Jockey One,sans-serif">Code</h1>
+          <h1 style="font-family: Jockey One,sans-serif"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Code</h1>
            <img alt="CS"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"
              width="10%" />
@@ -47,3 +47,11 @@
     </tr>
   </table>
 </div>
+<b><h1 style="font-family: Jockey One,sans-serif"></h1></b>
+<h3>
+          Stars forge legends, and realities arise when stellar brilliance is born.
+          I'm Scarlet Star, a game developer, programmer, and artist.
+          Currently, I work as a Technical Artist and Level Designer in the video game industry,
+          while also working independently on projects that aim to express emotions through
+          colors, shapes, and realities.
+        </h3>
