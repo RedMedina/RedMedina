@@ -23,7 +23,7 @@
           <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg"
              width="10%" />
-          <h1 style="font-family: Jockey One,sans-serif"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Code</h1>
+          <h1 style="font-family: Jockey One,sans-serif">Code</h1>
            <img alt="CS"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"
              width="10%" />
