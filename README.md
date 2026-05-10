@@ -16,7 +16,8 @@
              width="100%" />
       </td>
       <td style="border: none; vertical-align: top;">
-          (https://skillicons.dev/icons?i=unity,unreal)
+          <h1 style="font-family: Jockey One,sans-serif">Game Engines</h1>
+          [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
         <br> <br> <br> <br> <br>  <br> <br> <br><br> <br> <br>
       </td>
     </tr>
