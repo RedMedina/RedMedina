@@ -2,14 +2,14 @@
 <br>
 <b><h1 style="font-family: Jockey One,sans-serif">About me</h1></b>
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="30%">
+      <td width="30%" style="border: none; vertical-align: top;">
         <img alt="Scarlet Star"
              src="https://www.scarlet-star.com/static/media/SCARLET_PNG_DONE.c047aa57e9bbe34c145d.webp"
              width="100%" />
       </td>
-      <td width="70%">
+      <td style="border: none; vertical-align: top;">
         <h3>
           Stars forge legends, and realities arise when stellar brilliance is born.
           I'm Scarlet Star, a game developer, programmer, and artist.
