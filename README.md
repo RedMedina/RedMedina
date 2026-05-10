@@ -19,7 +19,7 @@
           <h1 style="font-family: Jockey One,sans-serif">Game Engines</h1>
            <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"
-             />
+             width="20%" />
         <br> <br> <br> <br> <br>  <br> <br> <br><br> <br> <br>
       </td>
     </tr>
