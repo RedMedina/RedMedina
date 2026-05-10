@@ -16,6 +16,7 @@
           Currently, I work as a Technical Artist and Level Designer in the video game industry,
           while also working independently on projects that aim to express emotions through
           colors, shapes, and realities.
+          <br> <br> <br> <br> <br>
         </h3>
       </td>
     </tr>
