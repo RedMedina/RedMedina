@@ -10,13 +10,13 @@
              width="100%" />
       </td>
       <td style="border: none; vertical-align: top;">
+         <br> <br> <br> <br> <br>
         <h3>
           Stars forge legends, and realities arise when stellar brilliance is born.
           I'm Scarlet Star, a game developer, programmer, and artist.
           Currently, I work as a Technical Artist and Level Designer in the video game industry,
           while also working independently on projects that aim to express emotions through
           colors, shapes, and realities.
-          <br> <br> <br> <br> <br>
         </h3>
       </td>
     </tr>
