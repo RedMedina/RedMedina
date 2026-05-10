@@ -48,6 +48,6 @@
   </table>
 </div>
 <b><h1 style="font-family: Jockey One,sans-serif"></h1></b>
-<img alt="Scarlet Star" src="https://www.scarlet-star.com/static/media/SCARLET_PNG_DONE.c047aa57e9bbe34c145d.webp" width="100%" /><br>
+<img alt="Scarlet Star" src="https://github.com/RedMedina/RedMedina/blob/main/FirmaSC_BG.png" width="100%" /><br>
 <h3 align='center'><i>The Stars Dreams of a Scarlet Reality</i></h3>
              
