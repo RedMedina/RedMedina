@@ -50,4 +50,6 @@
 <b><h1 style="font-family: Jockey One,sans-serif"></h1></b><p align='center'>
 <img alt="Scarlet Star" src="https://github.com/RedMedina/RedMedina/blob/main/FirmaSC_BG.png" width="45%" /></p><br>
 <h3 align='center'><i>The Stars Dreams of a Scarlet Reality</i></h3>
+<a align='center' href="https://www.instagram.com/scarlet.star.nova"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a align='center' href="https://www.linkedin.com/in/scarlet-graciano-medina/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
              
