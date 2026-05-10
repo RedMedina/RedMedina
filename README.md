@@ -23,6 +23,19 @@
           <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg"
              width="10%" />
+          <h1 style="font-family: Jockey One,sans-serif">Code</h1>
+           <img alt="CS"
+             src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"
+             width="10%" />
+          <img alt="CPP"
+             src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"
+             width="10%" />
+          <img alt="JS"
+             src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
+             width="10%" />
+           <img alt="ThreeJS"
+             src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"
+             width="10%" />
       </td>
     </tr>
   </table>
