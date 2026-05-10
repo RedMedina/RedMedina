@@ -47,7 +47,7 @@
     </tr>
   </table>
 </div>
-<b><h1 style="font-family: Jockey One,sans-serif"></h1></b><center>
-<img alt="Scarlet Star" src="https://github.com/RedMedina/RedMedina/blob/main/FirmaSC_BG.png" width="40%" /></center><br>
+<b><h1 style="font-family: Jockey One,sans-serif"></h1></b><p align='center'>
+<img alt="Scarlet Star" src="https://github.com/RedMedina/RedMedina/blob/main/FirmaSC_BG.png" width="45%" /></p><br>
 <h3 align='center'><i>The Stars Dreams of a Scarlet Reality</i></h3>
              
