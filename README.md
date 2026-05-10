@@ -19,11 +19,10 @@
           <h1 style="font-family: Jockey One,sans-serif">Game Engines</h1>
            <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"
-             width="10%" /> <b><h3>2 years experience, +2 proyects.</h3></b><br>
+             width="10%" />
           <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg"
-             width="10%" /> <b><h3>3 years experience, +2 proyects.</h3></b>
-        <br> <br> <br> <br> <br>  <br> <br> <br><br> <br> <br>
+             width="10%" />
       </td>
     </tr>
   </table>
