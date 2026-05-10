@@ -20,6 +20,9 @@
            <img alt="Unity"
              src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"
              width="10%" />
+          <<img alt="Unity"
+             src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg"
+             width="10%" />
         <br> <br> <br> <br> <br>  <br> <br> <br><br> <br> <br>
       </td>
     </tr>
