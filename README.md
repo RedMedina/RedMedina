@@ -48,10 +48,6 @@
   </table>
 </div>
 <b><h1 style="font-family: Jockey One,sans-serif"></h1></b>
-<h3>
-          Stars forge legends, and realities arise when stellar brilliance is born.
-          I'm Scarlet Star, a game developer, programmer, and artist.
-          Currently, I work as a Technical Artist and Level Designer in the video game industry,
-          while also working independently on projects that aim to express emotions through
-          colors, shapes, and realities.
-        </h3>
+<img alt="Scarlet Star" src="https://www.scarlet-star.com/static/media/SCARLET_PNG_DONE.c047aa57e9bbe34c145d.webp" width="100%" />
+<center><i>The Stars Dreams of a Scarlet Reality</i></center>
+             
